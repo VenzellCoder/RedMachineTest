@@ -1,0 +1,30 @@
+{
+  "GameConfig": 
+  {
+    "gameAreaWidth": 200,
+    "gameAreaHeight": 150,
+    "numUnitsToSpawn": 100,
+    "unitSpawnDelay": 0.005,
+    "unitSpawnMinRadius": 2,
+    "unitSpawnMaxRadius": 5,
+    "unitSpawnMinSpeed": 10,
+    "unitSpawnMaxSpeed": 20,
+    "unitDestroyRadius": 1
+  },
+  
+  "TeamsConfig":
+  {
+	"teams" : 
+	[
+		{
+			"name" : "RED",
+			"colour" : "#FF3BAD"
+		}, 
+		
+		{
+			"name" : "BLUE",
+			"colour" : "#2ABEFF"
+		}
+	]
+  }
+}
